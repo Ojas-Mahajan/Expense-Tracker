@@ -41,3 +41,9 @@ logout.php - Ends user session
 
 navbar.php - Navigation bar included in various pages
 
+
+## Installation & Setup
+Clone the repository:
+git clone https://github.com/Ojas-Mahajan/Expense-Tracker.git
+php -S localhost:8000
+
